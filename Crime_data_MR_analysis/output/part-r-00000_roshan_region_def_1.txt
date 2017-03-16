@@ -1,0 +1,694 @@
+1_1_Anti-social behaviour	195
+1_1_Burglary	55
+1_1_Criminal damage and arson	35
+1_1_Drugs	9
+1_1_Other crime	55
+1_1_Other theft	58
+1_1_Public disorder and weapons	9
+1_1_Shoplifting	3
+1_1_Vehicle crime	10
+1_1_Violence and sexual offences	1
+1_1_Violent crime	49
+1_2_Anti-social behaviour	15561
+1_2_Bicycle theft	4
+1_2_Burglary	895
+1_2_Criminal damage and arson	1931
+1_2_Drugs	773
+1_2_Other crime	2436
+1_2_Other theft	1135
+1_2_Possession of weapons	2
+1_2_Public disorder and weapons	360
+1_2_Public order	17
+1_2_Robbery	27
+1_2_Shoplifting	781
+1_2_Theft from the person	5
+1_2_Vehicle crime	633
+1_2_Violence and sexual offences	109
+1_2_Violent crime	2575
+1_3_Anti-social behaviour	8323
+1_3_Bicycle theft	8
+1_3_Burglary	1381
+1_3_Criminal damage and arson	1768
+1_3_Drugs	367
+1_3_Other crime	2467
+1_3_Other theft	1430
+1_3_Possession of weapons	3
+1_3_Public disorder and weapons	381
+1_3_Public order	26
+1_3_Robbery	42
+1_3_Shoplifting	798
+1_3_Theft from the person	4
+1_3_Vehicle crime	761
+1_3_Violence and sexual offences	116
+1_3_Violent crime	2710
+1_4_Anti-social behaviour	8611
+1_4_Bicycle theft	5
+1_4_Burglary	1099
+1_4_Criminal damage and arson	1518
+1_4_Drugs	269
+1_4_Other crime	2176
+1_4_Other theft	1285
+1_4_Possession of weapons	1
+1_4_Public disorder and weapons	447
+1_4_Public order	25
+1_4_Robbery	46
+1_4_Shoplifting	996
+1_4_Theft from the person	2
+1_4_Vehicle crime	637
+1_4_Violence and sexual offences	100
+1_4_Violent crime	2547
+1_5_Anti-social behaviour	1603
+1_5_Bicycle theft	1
+1_5_Burglary	269
+1_5_Criminal damage and arson	329
+1_5_Drugs	51
+1_5_Other crime	410
+1_5_Other theft	277
+1_5_Public disorder and weapons	61
+1_5_Public order	1
+1_5_Robbery	7
+1_5_Shoplifting	35
+1_5_Vehicle crime	179
+1_5_Violence and sexual offences	15
+1_5_Violent crime	489
+1_6_Anti-social behaviour	2812
+1_6_Bicycle theft	1
+1_6_Burglary	621
+1_6_Criminal damage and arson	482
+1_6_Drugs	173
+1_6_Other crime	1115
+1_6_Other theft	649
+1_6_Possession of weapons	1
+1_6_Public disorder and weapons	139
+1_6_Public order	6
+1_6_Robbery	29
+1_6_Shoplifting	265
+1_6_Theft from the person	11
+1_6_Vehicle crime	287
+1_6_Violence and sexual offences	43
+1_6_Violent crime	1043
+1_7_Anti-social behaviour	624
+1_7_Burglary	185
+1_7_Criminal damage and arson	140
+1_7_Drugs	24
+1_7_Other crime	270
+1_7_Other theft	176
+1_7_Public disorder and weapons	15
+1_7_Public order	2
+1_7_Robbery	1
+1_7_Shoplifting	60
+1_7_Vehicle crime	77
+1_7_Violence and sexual offences	9
+1_7_Violent crime	223
+1_8_Anti-social behaviour	12
+1_8_Burglary	5
+1_8_Criminal damage and arson	3
+1_8_Other crime	3
+1_8_Other theft	3
+1_8_Violent crime	2
+2_1_Anti-social behaviour	75249
+2_1_Bicycle theft	51
+2_1_Burglary	12023
+2_1_Criminal damage and arson	13518
+2_1_Drugs	5200
+2_1_Other crime	21062
+2_1_Other theft	11411
+2_1_Possession of weapons	22
+2_1_Public disorder and weapons	3662
+2_1_Public order	211
+2_1_Robbery	362
+2_1_Shoplifting	6570
+2_1_Theft from the person	57
+2_1_Vehicle crime	10201
+2_1_Violence and sexual offences	749
+2_1_Violent crime	20998
+2_2_Anti-social behaviour	39036
+2_2_Bicycle theft	8
+2_2_Burglary	2795
+2_2_Criminal damage and arson	4066
+2_2_Drugs	3671
+2_2_Other crime	6823
+2_2_Other theft	3185
+2_2_Possession of weapons	8
+2_2_Public disorder and weapons	1490
+2_2_Public order	58
+2_2_Robbery	53
+2_2_Shoplifting	1521
+2_2_Theft from the person	7
+2_2_Vehicle crime	2099
+2_2_Violence and sexual offences	215
+2_2_Violent crime	6370
+2_3_Anti-social behaviour	47648
+2_3_Bicycle theft	29
+2_3_Burglary	6228
+2_3_Criminal damage and arson	10525
+2_3_Drugs	2379
+2_3_Other crime	9390
+2_3_Other theft	7240
+2_3_Possession of weapons	13
+2_3_Public disorder and weapons	2056
+2_3_Public order	65
+2_3_Robbery	248
+2_3_Shoplifting	3927
+2_3_Theft from the person	11
+2_3_Vehicle crime	3600
+2_3_Violence and sexual offences	728
+2_3_Violent crime	17108
+2_4_Anti-social behaviour	18956
+2_4_Bicycle theft	10
+2_4_Burglary	2147
+2_4_Criminal damage and arson	6215
+2_4_Drugs	1071
+2_4_Other crime	1238
+2_4_Other theft	3725
+2_4_Possession of weapons	11
+2_4_Public disorder and weapons	756
+2_4_Public order	25
+2_4_Robbery	142
+2_4_Shoplifting	1152
+2_4_Theft from the person	8
+2_4_Vehicle crime	1169
+2_4_Violence and sexual offences	416
+2_4_Violent crime	8803
+2_5_Anti-social behaviour	44220
+2_5_Bicycle theft	24
+2_5_Burglary	6229
+2_5_Criminal damage and arson	8300
+2_5_Drugs	2438
+2_5_Other crime	12721
+2_5_Other theft	6451
+2_5_Possession of weapons	13
+2_5_Public disorder and weapons	2600
+2_5_Public order	163
+2_5_Robbery	350
+2_5_Shoplifting	4257
+2_5_Theft from the person	28
+2_5_Vehicle crime	4529
+2_5_Violence and sexual offences	576
+2_5_Violent crime	14882
+2_6_Anti-social behaviour	22802
+2_6_Bicycle theft	10
+2_6_Burglary	3587
+2_6_Criminal damage and arson	3917
+2_6_Drugs	1312
+2_6_Other crime	7429
+2_6_Other theft	3297
+2_6_Possession of weapons	6
+2_6_Public disorder and weapons	1188
+2_6_Public order	79
+2_6_Robbery	155
+2_6_Shoplifting	2101
+2_6_Theft from the person	14
+2_6_Vehicle crime	2318
+2_6_Violence and sexual offences	305
+2_6_Violent crime	7700
+2_7_Anti-social behaviour	7525
+2_7_Bicycle theft	6
+2_7_Burglary	1071
+2_7_Criminal damage and arson	1460
+2_7_Drugs	448
+2_7_Other crime	2214
+2_7_Other theft	1368
+2_7_Possession of weapons	1
+2_7_Public disorder and weapons	390
+2_7_Public order	27
+2_7_Robbery	27
+2_7_Shoplifting	722
+2_7_Theft from the person	3
+2_7_Vehicle crime	779
+2_7_Violence and sexual offences	104
+2_7_Violent crime	2705
+2_8_Anti-social behaviour	3216
+2_8_Bicycle theft	3
+2_8_Burglary	539
+2_8_Criminal damage and arson	601
+2_8_Drugs	186
+2_8_Other crime	962
+2_8_Other theft	599
+2_8_Public disorder and weapons	178
+2_8_Public order	24
+2_8_Robbery	10
+2_8_Shoplifting	140
+2_8_Theft from the person	4
+2_8_Vehicle crime	425
+2_8_Violence and sexual offences	73
+2_8_Violent crime	1149
+2_9_Anti-social behaviour	13732
+2_9_Bicycle theft	57
+2_9_Burglary	2244
+2_9_Criminal damage and arson	2590
+2_9_Drugs	803
+2_9_Other crime	4497
+2_9_Other theft	3260
+2_9_Possession of weapons	6
+2_9_Public disorder and weapons	1279
+2_9_Public order	44
+2_9_Robbery	119
+2_9_Shoplifting	1942
+2_9_Theft from the person	11
+2_9_Vehicle crime	1661
+2_9_Violence and sexual offences	175
+2_9_Violent crime	4840
+3_1_Anti-social behaviour	331395
+3_1_Bicycle theft	356
+3_1_Burglary	57583
+3_1_Criminal damage and arson	51454
+3_1_Drugs	17432
+3_1_Other crime	94370
+3_1_Other theft	55248
+3_1_Possession of weapons	59
+3_1_Public disorder and weapons	5866
+3_1_Public order	540
+3_1_Robbery	3144
+3_1_Shoplifting	32616
+3_1_Theft from the person	215
+3_1_Vehicle crime	44675
+3_1_Violence and sexual offences	2301
+3_1_Violent crime	80744
+3_2_Anti-social behaviour	230612
+3_2_Bicycle theft	204
+3_2_Burglary	44481
+3_2_Criminal damage and arson	36280
+3_2_Drugs	11322
+3_2_Other crime	67233
+3_2_Other theft	33542
+3_2_Possession of weapons	52
+3_2_Public disorder and weapons	7420
+3_2_Public order	343
+3_2_Robbery	4740
+3_2_Shoplifting	18911
+3_2_Theft from the person	95
+3_2_Vehicle crime	37660
+3_2_Violence and sexual offences	1781
+3_2_Violent crime	51142
+3_3_ Bay Lands"	19
+3_3_Anti-social behaviour	630594
+3_3_Bicycle theft	710
+3_3_Burglary	122959
+3_3_Criminal damage and arson	120731
+3_3_Drugs	43339
+3_3_Other crime	176523
+3_3_Other theft	109899
+3_3_Possession of weapons	183
+3_3_Public disorder and weapons	26473
+3_3_Public order	988
+3_3_Robbery	13708
+3_3_Shoplifting	59742
+3_3_Theft from the person	673
+3_3_Vehicle crime	84270
+3_3_Violence and sexual offences	6638
+3_3_Violent crime	167802
+3_4_Anti-social behaviour	463666
+3_4_Bicycle theft	318
+3_4_Burglary	71927
+3_4_Criminal damage and arson	67767
+3_4_Drugs	18520
+3_4_Other crime	107383
+3_4_Other theft	57903
+3_4_Possession of weapons	118
+3_4_Public disorder and weapons	13650
+3_4_Public order	535
+3_4_Robbery	5752
+3_4_Shoplifting	28861
+3_4_Theft from the person	167
+3_4_Vehicle crime	52206
+3_4_Violence and sexual offences	3463
+3_4_Violent crime	100556
+3_5_Anti-social behaviour	38096
+3_5_Bicycle theft	15
+3_5_Burglary	3407
+3_5_Criminal damage and arson	5494
+3_5_Drugs	1768
+3_5_Other crime	8365
+3_5_Other theft	3769
+3_5_Possession of weapons	5
+3_5_Public disorder and weapons	1385
+3_5_Public order	53
+3_5_Robbery	60
+3_5_Shoplifting	2808
+3_5_Theft from the person	6
+3_5_Vehicle crime	2586
+3_5_Violence and sexual offences	240
+3_5_Violent crime	7372
+3_6_Anti-social behaviour	2864
+3_6_Burglary	135
+3_6_Criminal damage and arson	160
+3_6_Drugs	54
+3_6_Other crime	886
+3_6_Other theft	143
+3_6_Possession of weapons	1
+3_6_Public disorder and weapons	76
+3_6_Public order	2
+3_6_Robbery	3
+3_6_Shoplifting	117
+3_6_Theft from the person	1
+3_6_Vehicle crime	79
+3_6_Violence and sexual offences	10
+3_6_Violent crime	427
+3_7_Anti-social behaviour	9511
+3_7_Bicycle theft	10
+3_7_Burglary	932
+3_7_Criminal damage and arson	1259
+3_7_Drugs	229
+3_7_Other crime	1940
+3_7_Other theft	1039
+3_7_Possession of weapons	3
+3_7_Public disorder and weapons	260
+3_7_Public order	13
+3_7_Robbery	73
+3_7_Shoplifting	638
+3_7_Theft from the person	4
+3_7_Vehicle crime	503
+3_7_Violence and sexual offences	70
+3_7_Violent crime	1979
+3_8_Anti-social behaviour	8854
+3_8_Bicycle theft	10
+3_8_Burglary	1343
+3_8_Criminal damage and arson	1455
+3_8_Drugs	267
+3_8_Other crime	2329
+3_8_Other theft	1435
+3_8_Possession of weapons	1
+3_8_Public disorder and weapons	302
+3_8_Public order	11
+3_8_Robbery	32
+3_8_Shoplifting	438
+3_8_Theft from the person	4
+3_8_Vehicle crime	1150
+3_8_Violence and sexual offences	74
+3_8_Violent crime	2056
+3_9_Anti-social behaviour	9497
+3_9_Bicycle theft	8
+3_9_Burglary	1739
+3_9_Criminal damage and arson	1699
+3_9_Drugs	261
+3_9_Other crime	2470
+3_9_Other theft	1741
+3_9_Public disorder and weapons	245
+3_9_Public order	18
+3_9_Robbery	33
+3_9_Shoplifting	558
+3_9_Theft from the person	1
+3_9_Vehicle crime	1528
+3_9_Violence and sexual offences	48
+3_9_Violent crime	2080
+4_1_Anti-social behaviour	330797
+4_1_Bicycle theft	519
+4_1_Burglary	68751
+4_1_Criminal damage and arson	59844
+4_1_Drugs	16965
+4_1_Other crime	114400
+4_1_Other theft	67684
+4_1_Possession of weapons	95
+4_1_Public disorder and weapons	14338
+4_1_Public order	611
+4_1_Robbery	4646
+4_1_Shoplifting	35191
+4_1_Theft from the person	225
+4_1_Vehicle crime	51969
+4_1_Violence and sexual offences	2479
+4_1_Violent crime	93260
+4_2_Anti-social behaviour	403487
+4_2_Bicycle theft	663
+4_2_Burglary	95797
+4_2_Criminal damage and arson	72823
+4_2_Drugs	23562
+4_2_Other crime	150717
+4_2_Other theft	86884
+4_2_Possession of weapons	171
+4_2_Public disorder and weapons	17873
+4_2_Public order	818
+4_2_Robbery	16794
+4_2_Shoplifting	42060
+4_2_Theft from the person	459
+4_2_Vehicle crime	86229
+4_2_Violence and sexual offences	4426
+4_2_Violent crime	125813
+4_3_ Glenfield"	5
+4_3_ Park Lane"	2
+4_3_ Quorn"	4
+4_3_ Thurmaston"	63
+4_3_Anti-social behaviour	526863
+4_3_Bicycle theft	641
+4_3_Burglary	97405
+4_3_Criminal damage and arson	82063
+4_3_Drugs	22635
+4_3_Other crime	147927
+4_3_Other theft	87332
+4_3_Possession of weapons	145
+4_3_Public disorder and weapons	16359
+4_3_Public order	643
+4_3_Robbery	8499
+4_3_Shoplifting	46814
+4_3_Theft from the person	448
+4_3_Vehicle crime	75105
+4_3_Violence and sexual offences	4141
+4_3_Violent crime	122677
+4_4_Anti-social behaviour	398561
+4_4_Bicycle theft	342
+4_4_Burglary	106037
+4_4_Criminal damage and arson	69427
+4_4_Drugs	19684
+4_4_Other crime	127608
+4_4_Other theft	81394
+4_4_Possession of weapons	85
+4_4_Public disorder and weapons	14066
+4_4_Public order	571
+4_4_Robbery	6612
+4_4_Shoplifting	36777
+4_4_Theft from the person	439
+4_4_Vehicle crime	74727
+4_4_Violence and sexual offences	3251
+4_4_Violent crime	91985
+4_5_Anti-social behaviour	424197
+4_5_Bicycle theft	349
+4_5_Burglary	42043
+4_5_Criminal damage and arson	51333
+4_5_Drugs	14383
+4_5_Other crime	77787
+4_5_Other theft	39450
+4_5_Possession of weapons	110
+4_5_Public disorder and weapons	10406
+4_5_Public order	510
+4_5_Robbery	1879
+4_5_Shoplifting	28884
+4_5_Theft from the person	144
+4_5_Vehicle crime	31508
+4_5_Violence and sexual offences	1837
+4_5_Violent crime	56598
+4_6_Anti-social behaviour	4610
+4_6_Burglary	300
+4_6_Criminal damage and arson	402
+4_6_Drugs	73
+4_6_Other crime	580
+4_6_Other theft	279
+4_6_Public disorder and weapons	76
+4_6_Public order	4
+4_6_Robbery	2
+4_6_Shoplifting	148
+4_6_Theft from the person	1
+4_6_Vehicle crime	214
+4_6_Violence and sexual offences	12
+4_6_Violent crime	454
+4_7_Anti-social behaviour	1972
+4_7_Bicycle theft	2
+4_7_Burglary	160
+4_7_Criminal damage and arson	359
+4_7_Drugs	53
+4_7_Other crime	405
+4_7_Other theft	209
+4_7_Public disorder and weapons	24
+4_7_Public order	4
+4_7_Robbery	3
+4_7_Shoplifting	64
+4_7_Vehicle crime	162
+4_7_Violence and sexual offences	15
+4_7_Violent crime	349
+4_8_Anti-social behaviour	7935
+4_8_Bicycle theft	6
+4_8_Burglary	868
+4_8_Criminal damage and arson	1417
+4_8_Drugs	507
+4_8_Other crime	1984
+4_8_Other theft	1011
+4_8_Possession of weapons	1
+4_8_Public disorder and weapons	263
+4_8_Public order	23
+4_8_Robbery	32
+4_8_Shoplifting	662
+4_8_Theft from the person	2
+4_8_Vehicle crime	609
+4_8_Violence and sexual offences	27
+4_8_Violent crime	2118
+4_9_Anti-social behaviour	84342
+4_9_Bicycle theft	194
+4_9_Burglary	11802
+4_9_Criminal damage and arson	11822
+4_9_Drugs	2918
+4_9_Other crime	21185
+4_9_Other theft	15354
+4_9_Possession of weapons	19
+4_9_Public disorder and weapons	2615
+4_9_Public order	116
+4_9_Robbery	633
+4_9_Shoplifting	7346
+4_9_Theft from the person	62
+4_9_Vehicle crime	10264
+4_9_Violence and sexual offences	471
+4_9_Violent crime	19466
+5_1_ Ickenham"	45
+5_1_ Teville Gate"	116
+5_1_Anti-social behaviour	1354581
+5_1_Bicycle theft	2098
+5_1_Burglary	317604
+5_1_Criminal damage and arson	178205
+5_1_Drugs	110370
+5_1_Other crime	518717
+5_1_Other theft	423333
+5_1_Possession of weapons	401
+5_1_Public disorder and weapons	68629
+5_1_Public order	2904
+5_1_Robbery	95948
+5_1_Shoplifting	105994
+5_1_Theft from the person	3930
+5_1_Vehicle crime	317293
+5_1_Violence and sexual offences	15153
+5_1_Violent crime	457958
+5_2_Anti-social behaviour	284911
+5_2_Bicycle theft	547
+5_2_Burglary	53196
+5_2_Criminal damage and arson	44524
+5_2_Drugs	16202
+5_2_Other crime	89896
+5_2_Other theft	55931
+5_2_Possession of weapons	103
+5_2_Public disorder and weapons	9419
+5_2_Public order	493
+5_2_Robbery	4336
+5_2_Shoplifting	27154
+5_2_Theft from the person	223
+5_2_Vehicle crime	45645
+5_2_Violence and sexual offences	2309
+5_2_Violent crime	74328
+5_3_Anti-social behaviour	81358
+5_3_Bicycle theft	83
+5_3_Burglary	13781
+5_3_Criminal damage and arson	12172
+5_3_Drugs	3335
+5_3_Other crime	21798
+5_3_Other theft	12417
+5_3_Possession of weapons	22
+5_3_Public disorder and weapons	2552
+5_3_Public order	98
+5_3_Robbery	597
+5_3_Shoplifting	6210
+5_3_Theft from the person	39
+5_3_Vehicle crime	8439
+5_3_Violence and sexual offences	599
+5_3_Violent crime	18863
+5_4_Anti-social behaviour	66593
+5_4_Bicycle theft	184
+5_4_Burglary	21238
+5_4_Criminal damage and arson	17726
+5_4_Drugs	4055
+5_4_Other crime	32279
+5_4_Other theft	16951
+5_4_Possession of weapons	20
+5_4_Public disorder and weapons	4553
+5_4_Public order	248
+5_4_Robbery	1008
+5_4_Shoplifting	10800
+5_4_Theft from the person	38
+5_4_Vehicle crime	11208
+5_4_Violence and sexual offences	1004
+5_4_Violent crime	27479
+5_9_Anti-social behaviour	8095
+5_9_Bicycle theft	7
+5_9_Burglary	923
+5_9_Criminal damage and arson	1011
+5_9_Drugs	447
+5_9_Other crime	2460
+5_9_Other theft	1426
+5_9_Public disorder and weapons	345
+5_9_Public order	13
+5_9_Robbery	123
+5_9_Shoplifting	1097
+5_9_Theft from the person	11
+5_9_Vehicle crime	619
+5_9_Violence and sexual offences	66
+5_9_Violent crime	2284
+6_1_Anti-social behaviour	60549
+6_1_Bicycle theft	59
+6_1_Burglary	10264
+6_1_Criminal damage and arson	11372
+6_1_Drugs	2303
+6_1_Other crime	18336
+6_1_Other theft	11196
+6_1_Possession of weapons	19
+6_1_Public disorder and weapons	1531
+6_1_Public order	57
+6_1_Robbery	889
+6_1_Shoplifting	5768
+6_1_Theft from the person	21
+6_1_Vehicle crime	7084
+6_1_Violence and sexual offences	677
+6_1_Violent crime	17916
+6_2_Anti-social behaviour	79850
+6_2_Bicycle theft	104
+6_2_Burglary	14434
+6_2_Criminal damage and arson	13799
+6_2_Drugs	3156
+6_2_Other crime	23847
+6_2_Other theft	13091
+6_2_Possession of weapons	31
+6_2_Public disorder and weapons	3692
+6_2_Public order	181
+6_2_Robbery	959
+6_2_Shoplifting	7158
+6_2_Theft from the person	46
+6_2_Vehicle crime	10198
+6_2_Violence and sexual offences	765
+6_2_Violent crime	23015
+6_3_Anti-social behaviour	56209
+6_3_Bicycle theft	84
+6_3_Burglary	6012
+6_3_Criminal damage and arson	8278
+6_3_Drugs	2598
+6_3_Other crime	14155
+6_3_Other theft	8011
+6_3_Possession of weapons	15
+6_3_Public disorder and weapons	1546
+6_3_Public order	80
+6_3_Robbery	401
+6_3_Shoplifting	4927
+6_3_Theft from the person	18
+6_3_Vehicle crime	4121
+6_3_Violence and sexual offences	526
+6_3_Violent crime	14666
+8_1_Burglary	3
+8_1_Criminal damage and arson	1
+8_1_Drugs	2
+8_1_Other crime	3
+8_1_Other theft	4
+8_1_Vehicle crime	1
+8_1_Violent crime	4
+8_8_Other crime	2
+8_8_Violent crime	1
+9_1_Anti-social behaviour	9
+9_1_Bicycle theft	2
+9_1_Burglary	3
+9_1_Criminal damage and arson	8
+9_1_Drugs	1
+9_1_Other crime	16
+9_1_Other theft	12
+9_1_Public disorder and weapons	2
+9_1_Public order	2
+9_1_Shoplifting	1
+9_1_Vehicle crime	2
+9_1_Violence and sexual offences	2
+9_1_Violent crime	32
+9_4_Criminal damage and arson	3
+9_4_Drugs	1
+9_4_Other theft	1
+9_5_Criminal damage and arson	1
+9_9_Criminal damage and arson	1
