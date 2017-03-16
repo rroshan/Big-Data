@@ -1,0 +1,6 @@
+http://www.utdallas.edu/~axn112530/cs6350/lab2/input/20417.txt.bz2
+http://www.utdallas.edu/~axn112530/cs6350/lab2/input/5000-8.txt.bz2
+http://www.utdallas.edu/~axn112530/cs6350/lab2/input/132.txt.bz2
+http://www.utdallas.edu/~axn112530/cs6350/lab2/input/1661-8.txt.bz2
+http://www.utdallas.edu/~axn112530/cs6350/lab2/input/972.txt.bz2
+http://www.utdallas.edu/~axn112530/cs6350/lab2/input/19699.txt.bz2

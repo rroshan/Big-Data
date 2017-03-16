@@ -1,0 +1,161 @@
+[0m[[0minfo[0m] [0mPackaging /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/assignment3_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	Q3$Review$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q3$Review$.class[0m
+[0m[[0mdebug[0m] [0m	Q1$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q1$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	Q3$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q3$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	Q1$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q1$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	Q4$$anonfun$10.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q4$$anonfun$10.class[0m
+[0m[[0mdebug[0m] [0m	Q5$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q5$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	Q4$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q4$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	Q2$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q2$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	Q1$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q1$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	Q4$User.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q4$User.class[0m
+[0m[[0mdebug[0m] [0m	Q5$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q5$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	Q4$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q4$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	Q2$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q2$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	Q1$Review$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q1$Review$.class[0m
+[0m[[0mdebug[0m] [0m	Q3$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q3$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	Q2$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q2$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	Q5$$anonfun$9.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q5$$anonfun$9.class[0m
+[0m[[0mdebug[0m] [0m	Q1$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q1$.class[0m
+[0m[[0mdebug[0m] [0m	Q1$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q1$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	Q2$Review$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q2$Review$.class[0m
+[0m[[0mdebug[0m] [0m	Q1$Review.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q1$Review.class[0m
+[0m[[0mdebug[0m] [0m	Q3$Review.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q3$Review.class[0m
+[0m[[0mdebug[0m] [0m	Q2$$anonfun$10.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q2$$anonfun$10.class[0m
+[0m[[0mdebug[0m] [0m	Q1$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q1$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	Q1$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q1$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	Q3$Business$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q3$Business$.class[0m
+[0m[[0mdebug[0m] [0m	Q2$User.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q2$User.class[0m
+[0m[[0mdebug[0m] [0m	Q2$Review.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q2$Review.class[0m
+[0m[[0mdebug[0m] [0m	Q5$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q5$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	Q5$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q5$.class[0m
+[0m[[0mdebug[0m] [0m	Q1$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q1$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	Q5$Review$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q5$Review$.class[0m
+[0m[[0mdebug[0m] [0m	Q2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q2.class[0m
+[0m[[0mdebug[0m] [0m	Q5$Review.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q5$Review.class[0m
+[0m[[0mdebug[0m] [0m	Q2$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q2$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	Q5$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q5$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	Q4$User$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q4$User$.class[0m
+[0m[[0mdebug[0m] [0m	Q1$$anonfun$10.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q1$$anonfun$10.class[0m
+[0m[[0mdebug[0m] [0m	Q2$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q2$.class[0m
+[0m[[0mdebug[0m] [0m	Q4$Review.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q4$Review.class[0m
+[0m[[0mdebug[0m] [0m	Q5$Business.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q5$Business.class[0m
+[0m[[0mdebug[0m] [0m	Q4$Review$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q4$Review$.class[0m
+[0m[[0mdebug[0m] [0m	Q1$Business$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q1$Business$.class[0m
+[0m[[0mdebug[0m] [0m	Q2$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q2$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	Q5.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q5.class[0m
+[0m[[0mdebug[0m] [0m	Q2$User$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q2$User$.class[0m
+[0m[[0mdebug[0m] [0m	Q1$$anonfun$9.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q1$$anonfun$9.class[0m
+[0m[[0mdebug[0m] [0m	Q5$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q5$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	Q3$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q3$.class[0m
+[0m[[0mdebug[0m] [0m	Q2$$anonfun$9.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q2$$anonfun$9.class[0m
+[0m[[0mdebug[0m] [0m	Q5$Business$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q5$Business$.class[0m
+[0m[[0mdebug[0m] [0m	Q1$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q1$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	Q4$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q4$.class[0m
+[0m[[0mdebug[0m] [0m	Q2$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q2$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	Q2$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q2$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	Q4$$anonfun$9.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q4$$anonfun$9.class[0m
+[0m[[0mdebug[0m] [0m	Q4$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q4$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	Q4$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q4$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	Q3$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q3$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	Q3$Business.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q3$Business.class[0m
+[0m[[0mdebug[0m] [0m	Q5$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q5$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	Q1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q1.class[0m
+[0m[[0mdebug[0m] [0m	Q3$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q3$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	Q2$$anonfun$11.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q2$$anonfun$11.class[0m
+[0m[[0mdebug[0m] [0m	Q2$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q2$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	Q4$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q4$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	Q4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q4.class[0m
+[0m[[0mdebug[0m] [0m	Q1$Business.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q1$Business.class[0m
+[0m[[0mdebug[0m] [0m	Q5$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q5$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	Q3$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q3$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	Q3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q3.class[0m
+[0m[[0mdebug[0m] [0m	Q3$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q3$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	Q4$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q4$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	Q3$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q3$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	Q5$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q5$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	Q4$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q4$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	Q4$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q4$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	Q1$$anonfun$11.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q1$$anonfun$11.class[0m
+[0m[[0mdebug[0m] [0m	Q3$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 3/Code/target/scala-2.11/classes/Q3$$anonfun$1.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
