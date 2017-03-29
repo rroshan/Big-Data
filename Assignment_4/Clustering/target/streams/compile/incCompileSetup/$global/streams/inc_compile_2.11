@@ -1,0 +1,168 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+5 items
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/target/scala-2.11/classes/Kmeans$$anonfun$1.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/target/scala-2.11/classes/Kmeans$$anonfun$2$$anonfun$apply$1.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/target/scala-2.11/classes/Kmeans$$anonfun$2.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/target/scala-2.11/classes/Kmeans$.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/target/scala-2.11/classes/Kmeans.class
+binary dependencies:
+4 items
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> /Users/roshan/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-1.6.1.jar
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> /Users/roshan/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-1.6.1.jar
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> /Users/roshan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+5 items
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> Kmeans
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> Kmeans$
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> Kmeans$$anonfun$1
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> Kmeans$$anonfun$2
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> Kmeans$$anonfun$2$$anonfun$apply$1
+used names:
+75 items
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> !=
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> +
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> <init>
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> Any
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> AnyRef
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> Array
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> ArrayOps
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> B
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> Boolean
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> CanBuildFrom
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> Char
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> Class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> ClassTag
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> Double
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> Function1
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> Int
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> KMeans
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> KMeansModel
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> Kmeans
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> Nothing
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> Object
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> Predef
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> RDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> SparkConf
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> SparkContext
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> String
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> StringOps
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> T
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> That
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> U
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> Unit
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> Vector
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> Vectors
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> WSSSE
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> _$4
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> _$7
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> apache
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> apply
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> args
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> augmentString
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> cache
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> canBuildFrom
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> clustering
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> clusters
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> computeCost
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> conf
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> data
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> dataWithoutHeader
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> dense
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> filter
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> first
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> header
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> linalg
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> map
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> materializeClassTag
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> mllib
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> numClusters
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> numIterations
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> org
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> package
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> parsedData
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> println
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> refArrayOps
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> row
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> s
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> sc
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> scala
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> setAppName
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> spark
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> split
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> stop
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> textFile
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> toDouble
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> toInt
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> train
+product stamps:
+5 items
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/target/scala-2.11/classes/Kmeans$$anonfun$1.class -> lastModified(1490403333000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/target/scala-2.11/classes/Kmeans$$anonfun$2$$anonfun$apply$1.class -> lastModified(1490403333000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/target/scala-2.11/classes/Kmeans$$anonfun$2.class -> lastModified(1490403333000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/target/scala-2.11/classes/Kmeans$.class -> lastModified(1490403333000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/target/scala-2.11/classes/Kmeans.class -> lastModified(1490403333000)
+source stamps:
+1 items
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> hash(c9d090818b2d66f8fee148c7888c7ce78210130a)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1444173647000)
+/Users/roshan/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-1.6.1.jar -> lastModified(1456554878000)
+/Users/roshan/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-1.6.1.jar -> lastModified(1456555358000)
+/Users/roshan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/roshan/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-1.6.1.jar -> org.apache.spark.SparkConf
+/Users/roshan/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-1.6.1.jar -> org.apache.spark.mllib.linalg.Vector
+/Users/roshan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Char
+internal apis:
+1 items
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw8MYfigAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwkwBqj3QABm5vdGlmeXNxAH4ADMiBgu10AAR3YWl0c3EAfgAMYDAMO3QADSRhc0luc3RhbmNlT2ZzcQB+AAw2WEtrdAAGZXF1YWxzc3EAfgAMVYJ6QXQADGFzSW5zdGFuY2VPZnNxAH4ADIpsvkd0AAxzeW5jaHJvbml6ZWRzcQB+AAzOc5ewdAANJGlzSW5zdGFuY2VPZnNxAH4ADBdBrAZ0AAZLbWVhbnNzcQB+AAwdQQZvdAAEbWFpbnNxAH4ADK1TRzJ0AAlub3RpZnlBbGxzcQB+AAyvTi6IdAAMaXNJbnN0YW5jZU9mc3EAfgAMYRwVGnQAAj09c3EAfgAMkdUrEXQABWNsb25lc3EAfgAMympotHQACHRvU3RyaW5nc3EAfgAMFhvzCnQAAiE9c3EAfgAMiED/bnQACGdldENsYXNzc3EAfgAMUYAkAHQAAm5lc3EAfgAMWRacFXQAAmVxc3EAfgAMtTrawHQAAiMjc3EAfgAM6v7yzHQACGZpbmFsaXplc3EAfgAMlKMlrHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAddXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXXNxAH4AWHVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AH3VxAH4AUAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBcdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AXHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AeHVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGV4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AGxbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AFxzcQB+AGt0AAVBcnJheXEAfgBxdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AGt0AAZTdHJpbmdzcQB+AG9zcQB+AHJ1cQB+AHUAAAADc3EAfgB3dAAEamF2YXNxAH4Ad3QABGxhbmdxAH4AfHNxAH4AWHVxAH4APAAAAABzcQB+AFh1cQB+AJAAAAACc3EAfgBrdAAGT2JqZWN0cQB+AJRzcQB+AGt0AANBbnlxAH4AcXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFbAvYE1XVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AHMvVXNlcnMvcm9zaGFuL0RvY3VtZW50cy9VVEQvU3ByaW5nXzIwMTcvQmlnX0RhdGEvQXNzaWdubWVudHMvQXNzaWdubWVudF80L0NsdXN0ZXJpbmcvQ29kZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUydCQgYstZvj+4UjHiIx854IQEwo=
+external apis:
+0 items
+source infos:
+1 items
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment_4/Clustering/Code/src/main/scala/Kmeans.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWwL2BNV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAcy9Vc2Vycy9yb3NoYW4vRG9jdW1lbnRzL1VURC9TcHJpbmdfMjAxNy9CaWdfRGF0YS9Bc3NpZ25tZW50cy9Bc3NpZ25tZW50XzQvQ2x1c3RlcmluZy9Db2RlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
