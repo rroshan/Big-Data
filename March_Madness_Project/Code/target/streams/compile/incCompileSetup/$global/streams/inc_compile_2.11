@@ -1,0 +1,555 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+58 items
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$1.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$10.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$11.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$12.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$13.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$14.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$15.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$16.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$17.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$18.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$19.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$2.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$20.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$21.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$22.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$23.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$24$$anonfun$apply$1.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$24.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$25.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$26.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$27.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$28.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$29.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$3.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$30.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$31.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$32.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$33.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$34.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$35.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$36.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$37.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$38.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$39.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$4.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$40.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$41.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$42.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$43.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$44.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$45.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$46.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$47.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$5.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$6.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$7.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$8.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$9.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$PlayoffSeeds$.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$PlayoffSeeds.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$RegularSeasonCompact$.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$RegularSeasonCompact.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$TeamA$.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$TeamA.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$TeamB$.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$TeamB.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor.class
+binary dependencies:
+4 items
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-1.6.1.jar
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-1.6.1.jar
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /Users/roshan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+58 items
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$1
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$10
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$11
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$12
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$13
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$14
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$15
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$16
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$17
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$18
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$19
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$2
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$20
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$21
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$22
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$23
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$24
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$24$$anonfun$apply$1
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$25
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$26
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$27
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$28
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$29
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$3
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$30
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$31
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$32
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$33
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$34
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$35
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$36
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$37
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$38
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$39
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$4
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$40
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$41
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$42
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$43
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$44
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$45
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$46
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$47
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$5
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$6
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$7
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$8
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$$anonfun$9
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$PlayoffSeeds
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$PlayoffSeeds$
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$RegularSeasonCompact
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$RegularSeasonCompact$
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$TeamA
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$TeamA$
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$TeamB
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor$TeamB$
+used names:
+298 items
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> !=
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> &&
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> +
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> -
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> /
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> <
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> <init>
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> <repeated>
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> ==
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> >
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> A
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> A_AVGPTSW
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> A_AWINPCT
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> A_LAST10W
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> A_SEED
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> A_WINPCT
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> AbstractFunction3
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> AbstractFunction7
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> AbstractFunction8
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Algo
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Any
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> AnyRef
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Array
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> ArrayOps
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> B
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> B_AVGPTSW
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> B_AWINPCT
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> B_LAST10W
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> B_SEED
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> B_WINPCT
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> BinaryClassificationMetrics
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Boolean
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> BoostingStrategy
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Char
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> ClassTag
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Classification
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> DecisionTree
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> DecisionTreeModel
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Double
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Function1
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Function2
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Gini
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> GradientBoostedTrees
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> GradientBoostedTreesModel
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Impurity
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> IndexOutOfBoundsException
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Int
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Integer
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Iterator
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> K
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> LabeledPoint
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> MLPairRDDFunctions
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> MLUtils
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Map
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Matrix
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> MulticlassMetrics
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> NCAAPredictor
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> None
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Nothing
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Object
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Ordering
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> PairRDDFunctions
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> PlayoffSeeds
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Predef
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Product
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> QuantileStrategy
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> RDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> RandomForest
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> RandomForestModel
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> RegularSeasonCompact
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> ScalaRunTime
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Serializable
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Some
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> SparkConf
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> SparkContext
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> StandardScaler
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Statics
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Strategy
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> String
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> StringOps
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> T
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> T0
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> T1
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> T10
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> T11
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> T12
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> T2
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> T3
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> T4
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> T5
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> T6
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> T7
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> T8
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> T9
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> TEAMID
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> TeamA
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> TeamB
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Tuple12
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Tuple2
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Tuple3
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Tuple4
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Tuple7
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Tuple8
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> U
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Unit
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> V
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Value
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Vector
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> Vectors
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> W
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> YEAR
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> _$3
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> _$4
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> _$7
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> _1
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> _10
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> _11
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> _12
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> _2
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> _3
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> _4
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> _5
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> _6
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> _7
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> _8
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> _9
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> _toString
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> ajoin
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> algorithm
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> anyHash
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> apache
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> apply
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> arrayClass
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> asInstanceOf
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> attributes
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> augmentString
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> avgPtsWonByRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> avgPtsWonByTempRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> awayWinCleanedJoinedData
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> awayWinFreqRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> awayWinJoinData
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> awayWinPctRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> bjoin
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> boostingStrategy
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> categoricalFeaturesInfo
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> completeRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> conf
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> configuration
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> confusionMatrix
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> count
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> daynum
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> defaultParams
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> dense
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> doubleHash
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> dtEvaluationMetrics
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> dtImpurity
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> dtLabeledPredictions
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> dtModel
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> ele
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> eq
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> equals
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> evaluation
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> feature
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> featureSubsetStrategy
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> features
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> filter
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> filteredRegularSeasonCompactRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> final_join_data1
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> final_join_data2
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> finalizeHash
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> finaltop10RDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> first
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> foreach
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> fromPairRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> gbEvaluationMetrics
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> gbLabeledPredictions
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> gbModel
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> header
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> impurity
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> isInstanceOf
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> java
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> join
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> joins
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> label
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> labeledPoint
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> lang
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> linalg
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> lossFreqRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> lossPlayoffJoin
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> lossPlayoffJoinClean
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> losstemp
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> lscore
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> lteam
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> map
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> materializeClassTag
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> math
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> maxBins
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> maxDepth
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> maxDepth_=
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> maximumDepth
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> mix
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> mllib
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> model
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> numClasses
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> numClasses_=
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> numIterations_=
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> numot
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> org
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> package
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> parseInt
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> playOffRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> playOffRDDKV
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> playoffHeader
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> playoffSeedsRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> playoffSeedsTempRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> playoffTeamsWithHeader
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> playoffTeamsWithoutHeader
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> precision
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> predict
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> predictions
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> println
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> ptsWonByRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> rdd
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> rddToPairRDDFunctions
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> recordArr
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> reduceByKey
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> refArrayOps
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> regression
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> regularSeasonCompactRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> regularSeasonHeader
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> regularSeasonWinPctRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> regularSeasonWithHeader
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> regularSeasonWithoutHeader
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> res
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> rfEvaluationMetrics
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> rfImpurity
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> rfLabeledPredictions
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> rfModel
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> row
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> rs_row
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> runtime
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> s
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> sc
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> scala
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> seed
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> setAppName
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> sortBy
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> sortedRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> spark
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> split
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> stop
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> str
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> substring
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> t
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> teamARDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> teamBRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> teamId
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> testData
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> testRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> textFile
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> toDouble
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> toInt
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> toString
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> top10RDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> topByKey
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> tourneyResRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> tourneyResWithHeader
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> tourneyResWithoutHeader
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> train
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> trainClassifier
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> trainRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> trainingData
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> tree
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> treeCount
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> treeStrategy
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> tuple
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> typedProductIterator
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> u
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> union
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> unionRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> util
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> v
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> winFreqCleanedJoinedData
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> winFreqJoinData
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> winFreqRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> winPlayoffJoin
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> winPlayoffJoinClean
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> wintemp
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> wloc
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> wscore
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> wteam
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> x
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> y
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> yaRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> ybRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> year
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> ||
+product stamps:
+58 items
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$1.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$10.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$11.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$12.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$13.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$14.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$15.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$16.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$17.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$18.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$19.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$2.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$20.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$21.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$22.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$23.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$24$$anonfun$apply$1.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$24.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$25.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$26.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$27.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$28.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$29.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$3.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$30.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$31.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$32.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$33.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$34.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$35.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$36.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$37.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$38.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$39.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$4.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$40.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$41.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$42.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$43.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$44.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$45.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$46.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$47.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$5.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$6.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$7.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$8.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$$anonfun$9.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$PlayoffSeeds$.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$PlayoffSeeds.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$RegularSeasonCompact$.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$RegularSeasonCompact.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$TeamA$.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$TeamA.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$TeamB$.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor$TeamB.class -> lastModified(1493665095000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/target/scala-2.11/classes/NCAAPredictor.class -> lastModified(1493665095000)
+source stamps:
+1 items
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> hash(c9e8ddf5aaa3c3075b5de5c44cb7396492417c8b)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1444173647000)
+/Users/roshan/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-1.6.1.jar -> lastModified(1456554878000)
+/Users/roshan/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-1.6.1.jar -> lastModified(1456555358000)
+/Users/roshan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/roshan/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-1.6.1.jar -> org.apache.spark.SparkContext
+/Users/roshan/.ivy2/cache/org.apache.spark/spark-mllib_2.11/jars/spark-mllib_2.11-1.6.1.jar -> org.apache.spark.mllib.tree.GradientBoostedTrees
+/Users/roshan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Product
+internal apis:
+1 items
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwVKtBwQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAABDc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwKJ9JG3QACUJfTEFTVDEwV3NxAH4ADG/iyqB0AAhCX1dJTlBDVHNxAH4ADJYalJh0AAZub3RpZnlzcQB+AAxejPd4dAAHdW5hcHBseXNxAH4ADLzlK7Z0AAdjdXJyaWVkc3EAfgAMfkucHHQABmRheW51bXNxAH4ADCJXpNl0AAlBX0FXSU5QQ1RzcQB+AAzpGWssdAAFbnVtb3RzcQB+AAxJjxendAAEd2FpdHNxAH4ADH4seTN0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADBOcwZV0AA0kYXNJbnN0YW5jZU9mc3EAfgAMTPhzKnQADmNvcHkkZGVmYXVsdCQ1c3EAfgAM+i8SGnQABHNlZWRzcQB+AAwk/u4AdAAMcHJvZHVjdEFyaXR5c3EAfgAMStUEK3QABmVxdWFsc3NxAH4ADD2Fdu50AAZ0ZWFtSWRzcQB+AAyEfsGqdAAMUGxheW9mZlNlZWRzc3EAfgAMH4gqTnQADGFzSW5zdGFuY2VPZnNxAH4ADJLT99V0AAZ3c2NvcmVzcQB+AAznJ2V3dAAMc3luY2hyb25pemVkc3EAfgAM7ctJm3QACEFfV0lOUENUc3EAfgAMSuE2XXQADSRpc0luc3RhbmNlT2ZzcQB+AAzW7jvSdAAOY29weSRkZWZhdWx0JDhzcQB+AAxvpvATdAAGdHVwbGVkc3EAfgAMPwjqxnQABmxzY29yZXNxAH4ADBr66OB0AAR5ZWFyc3EAfgAMcY5iPnQABVRlYW1Cc3EAfgAMXqcGfnQACGNhbkVxdWFsc3EAfgAMwYRmxnQADmNvcHkkZGVmYXVsdCQ0c3EAfgAMr+DJwXQABG1haW5zcQB+AAyy5J/JdAAFd3RlYW1zcQB+AAxLHHhOdAAFVGVhbUFzcQB+AAy+stcFdAANcHJvZHVjdFByZWZpeHNxAH4ADN01zLx0AAlub3RpZnlBbGxzcQB+AAyFA6YydAAEWUVBUnNxAH4ADH/tK090AAR3bG9jc3EAfgAMx1CJ73QADGlzSW5zdGFuY2VPZnNxAH4ADPkUn+J0ABRSZWd1bGFyU2Vhc29uQ29tcGFjdHNxAH4ADPa296F0AAY8aW5pdD5zcQB+AAwvj+mWdAAGVEVBTUlEc3EAfgAM4fFXN3QACUFfQVZHUFRTV3NxAH4ADDHEHKF0AAVhcHBseXNxAH4ADFQl6op0AAI9PXNxAH4ADMHNtjl0AAVjbG9uZXNxAH4ADPPeRyh0AA5jb3B5JGRlZmF1bHQkN3NxAH4ADF3pF+90AA1OQ0FBUHJlZGljdG9yc3EAfgAM1N7v63QABiRpbml0JHNxAH4ADEA6oCx0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADF6wNQl0AARjb3B5c3EAfgAM6mYOkHQACUJfQVZHUFRTV3NxAH4ADIZzmuZ0AAh0b1N0cmluZ3NxAH4ADIt8q+N0AAIhPXNxAH4ADABZpUd0AAVsdGVhbXNxAH4ADBLCe0V0AAhnZXRDbGFzc3NxAH4ADD0Qn2d0AAlBX0xBU1QxMFdzcQB+AAyO4NsvdAAOY29weSRkZWZhdWx0JDFzcQB+AAxAZmEmdAAOY29weSRkZWZhdWx0JDZzcQB+AAzXg6swdAACbmVzcQB+AAyiQdKBdAAJQl9BV0lOUENUc3EAfgAMsyDhe3QAAmVxc3EAfgAMZNtlwnQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADLdocG10AAIjI3NxAH4ADMLC7md0AAhmaW5hbGl6ZXNxAH4ADFMNcGV0AA5wcm9kdWN0RWxlbWVudHNxAH4ADOTjyX90AAhoYXNoQ29kZXNxAH4ADEXMTNF0AAZBX1NFRURzcQB+AAzRirIGdAAGQl9TRUVEc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AnXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgBpdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgC0c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AJ1MAAlpbmhlcml0ZWRxAH4AnUwAB3BhcmVudHNxAH4AnXhxAH4AuXNxAH4AtHVxAH4AmAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AnnEAfgCndXEAfgCoAAAAAHNxAH4AqgBxAH4ASXVxAH4ArAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgC4dAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AuHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4A1HVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AMF4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AK90AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AMhbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+ALhzcQB+AMd0AAVBcnJheXEAfgDNdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AMd0AAZTdHJpbmdzcQB+AMtzcQB+AM51cQB+ANEAAAADc3EAfgDTdAAEamF2YXNxAH4A03QABGxhbmdxAH4A2HNxAH4AtHVxAH4AmAAAAABzcQB+ALR1cQB+AOwAAAACc3EAfgDHdAAGT2JqZWN0cQB+APBzcQB+AMd0AANBbnlxAH4AzXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFbxWCKn3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGsvVXNlcnMvcm9zaGFuL0RvY3VtZW50cy9VVEQvU3ByaW5nXzIwMTcvQmlnX0RhdGEvTWFyY2hfTWFkbmVzc19NYW5pYV9Qcm9qZWN0L0NvZGUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFMno3fWqo8MHW13lxEy3OWSSQXyL
+external apis:
+0 items
+source infos:
+1 items
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/March_Madness_Mania_Project/Code/src/main/scala/NCAAPredictor.scala -> 
+AAAAAAAAAAA=
+compilations:
+6 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW8BGeD11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9Vc2Vycy9yb3NoYW4vRG9jdW1lbnRzL1VURC9TcHJpbmdfMjAxNy9CaWdfRGF0YS9Qcm9qZWN0L0NvZGUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW8BIh6x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9Vc2Vycy9yb3NoYW4vRG9jdW1lbnRzL1VURC9TcHJpbmdfMjAxNy9CaWdfRGF0YS9Qcm9qZWN0L0NvZGUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW8BOM+Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9Vc2Vycy9yb3NoYW4vRG9jdW1lbnRzL1VURC9TcHJpbmdfMjAxNy9CaWdfRGF0YS9Qcm9qZWN0L0NvZGUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW8C7VHN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9Vc2Vycy9yb3NoYW4vRG9jdW1lbnRzL1VURC9TcHJpbmdfMjAxNy9CaWdfRGF0YS9Qcm9qZWN0L0NvZGUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW8C/KCh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVy9Vc2Vycy9yb3NoYW4vRG9jdW1lbnRzL1VURC9TcHJpbmdfMjAxNy9CaWdfRGF0YS9Qcm9qZWN0L0NvZGUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW8Vgip91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAay9Vc2Vycy9yb3NoYW4vRG9jdW1lbnRzL1VURC9TcHJpbmdfMjAxNy9CaWdfRGF0YS9NYXJjaF9NYWRuZXNzX01hbmlhX1Byb2plY3QvQ29kZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==

@@ -1,0 +1,12 @@
+Random Forest evaluationMetrics.precision:: 0.751937984496124
+Random Forest evaluationMetrics.confusionMatrix:: 
+58.0  19.0  
+13.0  39.0  
+Decision Tree evaluationMetrics.precision:: 0.7131782945736435
+Decision Tree evaluationMetrics.confusionMatrix:: 
+56.0  22.0  
+15.0  36.0  
+Gradient Boosted Tree evaluationMetrics.precision:: 0.7054263565891473
+Gradient Boosted Tree evaluationMetrics.confusionMatrix:: 
+54.0  21.0  
+17.0  37.0  

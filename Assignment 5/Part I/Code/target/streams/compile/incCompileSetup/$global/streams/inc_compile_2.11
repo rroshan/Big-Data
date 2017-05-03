@@ -1,0 +1,252 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+16 items
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$$anonfun$1.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$$anonfun$10.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$$anonfun$11.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$$anonfun$12.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$$anonfun$2.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$$anonfun$3.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$$anonfun$4.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$$anonfun$5.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$$anonfun$6.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$$anonfun$7.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$$anonfun$8.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$$anonfun$9.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$Author$.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$Author.class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> /Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration.class
+binary dependencies:
+4 items
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> /Users/roshan/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-1.6.1.jar
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> /Users/roshan/.ivy2/cache/org.apache.spark/spark-graphx_2.11/jars/spark-graphx_2.11-1.6.1.jar
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> /Users/roshan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+16 items
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> AuthorCollaboration
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> AuthorCollaboration$
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> AuthorCollaboration$$anonfun$1
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> AuthorCollaboration$$anonfun$10
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> AuthorCollaboration$$anonfun$11
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> AuthorCollaboration$$anonfun$12
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> AuthorCollaboration$$anonfun$2
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> AuthorCollaboration$$anonfun$3
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> AuthorCollaboration$$anonfun$4
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> AuthorCollaboration$$anonfun$5
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> AuthorCollaboration$$anonfun$6
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> AuthorCollaboration$$anonfun$7
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> AuthorCollaboration$$anonfun$8
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> AuthorCollaboration$$anonfun$9
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> AuthorCollaboration$Author
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> AuthorCollaboration$Author$
+used names:
+125 items
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> !=
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> &&
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> <init>
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> ==
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> >
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> A
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> AbstractFunction1
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> Any
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> AnyRef
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> Array
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> ArrayOps
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> Author
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> AuthorCollaboration
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> Boolean
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> Char
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> Class
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> ClassTag
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> Double
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> ED
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> Edge
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> Function1
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> Function2
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> Graph
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> GraphOps
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> IndexOutOfBoundsException
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> Int
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> Iterator
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> K
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> Long
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> None
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> Nothing
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> Object
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> Ordering
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> Predef
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> Product
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> RDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> ScalaRunTime
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> Serializable
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> Some
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> SparkConf
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> SparkContext
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> Statics
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> StorageLevel
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> String
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> StringOps
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> T
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> T0
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> T1
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> T2
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> Tuple2
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> U
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> Unit
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> VD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> VertexId
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> VertexRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> _$3
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> _$4
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> _$7
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> _2
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> _toString
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> apache
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> apply
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> arrayClass
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> asInstanceOf
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> augmentString
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> c
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> cc
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> ccNodeids
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> charAt
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> collect
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> conf
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> connectedComponents
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> d
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> defaultAuthor
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> distinct
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> edgeRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> eq
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> filter
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> finalizeHash
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> graph
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> graphToGraphOps
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> graphx
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> id
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> inDegrees
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> isInstanceOf
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> item
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> longHash
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> map
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> materializeClassTag
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> math
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> mix
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> org
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> outDegrees
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> package
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> pageRank
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> qual$1
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> ranks
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> rdd
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> reduce
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> refArrayOps
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> runtime
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> saveAsTextFile
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> sc
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> scala
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> setAppName
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> sortBy
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> sortedRank
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> sortedTriCounts
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> spark
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> split
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> take
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> textFile
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> toLong
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> toString
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> triCounts
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> triangleCount
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> typedProductIterator
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> va
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> vb
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> vertexRDD
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> vertices
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> x
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> x$3
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> x$4
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> ||
+product stamps:
+16 items
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$$anonfun$1.class -> lastModified(1493246847000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$$anonfun$10.class -> lastModified(1493246847000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$$anonfun$11.class -> lastModified(1493246847000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$$anonfun$12.class -> lastModified(1493246847000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$$anonfun$2.class -> lastModified(1493246847000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$$anonfun$3.class -> lastModified(1493246847000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$$anonfun$4.class -> lastModified(1493246847000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$$anonfun$5.class -> lastModified(1493246847000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$$anonfun$6.class -> lastModified(1493246847000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$$anonfun$7.class -> lastModified(1493246847000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$$anonfun$8.class -> lastModified(1493246847000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$$anonfun$9.class -> lastModified(1493246847000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$.class -> lastModified(1493246847000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$Author$.class -> lastModified(1493246847000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration$Author.class -> lastModified(1493246847000)
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/target/scala-2.11/classes/AuthorCollaboration.class -> lastModified(1493246847000)
+source stamps:
+1 items
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> hash(3c9c114fb00799532f165690473f944c2090a5df)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1444173647000)
+/Users/roshan/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-1.6.1.jar -> lastModified(1456554878000)
+/Users/roshan/.ivy2/cache/org.apache.spark/spark-graphx_2.11/jars/spark-graphx_2.11-1.6.1.jar -> lastModified(1456555229000)
+/Users/roshan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_66.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/roshan/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-1.6.1.jar -> org.apache.spark.SparkConf
+/Users/roshan/.ivy2/cache/org.apache.spark/spark-graphx_2.11/jars/spark-graphx_2.11-1.6.1.jar -> org.apache.spark.graphx.GraphOps
+/Users/roshan/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.runtime.AbstractFunction1
+internal apis:
+1 items
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwVX6WGAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAkc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw3zBfMnQABm5vdGlmeXNxAH4ADCsHoIh0AAd1bmFwcGx5c3EAfgAMI8ru4HQABHdhaXRzcQB+AAyK16tndAANJGFzSW5zdGFuY2VPZnNxAH4ADKJp0Ah0AAdjb21wb3Nlc3EAfgAMMT0BaXQADHByb2R1Y3RBcml0eXNxAH4ADKvcaLV0AAZlcXVhbHNzcQB+AAySzLs9dAAMYXNJbnN0YW5jZU9mc3EAfgAMAlxvd3QAE0F1dGhvckNvbGxhYm9yYXRpb25zcQB+AAzUQNYDdAAMc3luY2hyb25pemVkc3EAfgAMZgMFbnQADSRpc0luc3RhbmNlT2ZzcQB+AAxHUS80dAAHYW5kVGhlbnNxAH4ADM3AU6B0AAhjYW5FcXVhbHNxAH4ADALd+xh0AARtYWluc3EAfgAM+4vTgHQADXByb2R1Y3RQcmVmaXhzcQB+AAzp4z+3dAAJbm90aWZ5QWxsc3EAfgAMTQboWHQADGlzSW5zdGFuY2VPZnNxAH4ADAt73/x0AAY8aW5pdD5zcQB+AAwsSrOldAACaWRzcQB+AAyZYyFkdAAFYXBwbHlzcQB+AAyIQLzqdAACPT1zcQB+AAz9e7dgdAAFY2xvbmVzcQB+AAy+3Zh5dAAGQXV0aG9yc3EAfgAMmFd08nQABiRpbml0JHNxAH4ADHOaLrh0AARjb3B5c3EAfgAMqnxw9HQACHRvU3RyaW5nc3EAfgAM9vXObXQAAiE9c3EAfgAMBoVH6HQACGdldENsYXNzc3EAfgAMm+uvwnQADmNvcHkkZGVmYXVsdCQxc3EAfgAMEs/X9nQAAm5lc3EAfgAMVvJdCXQAAmVxc3EAfgAMwz0ywXQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADLy+dq50AAIjI3NxAH4ADDjVlnd0AAhmaW5hbGl6ZXNxAH4ADAN11yB0AA5wcm9kdWN0RWxlbWVudHNxAH4ADOe4DSV0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AF94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4AH3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AdnNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBfTAAJaW5oZXJpdGVkcQB+AF9MAAdwYXJlbnRzcQB+AF94cQB+AHtzcQB+AHZ1cQB+AFoAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AGBxAH4AaXVxAH4AagAAAABzcQB+AGwAcQB+ACl1cQB+AG4AAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AenQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHpzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJZ1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgCDeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBxdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCKWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgB6c3EAfgCJdAAFQXJyYXlxAH4Aj3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCJdAAGU3RyaW5nc3EAfgCNc3EAfgCQdXEAfgCTAAAAA3NxAH4AlXQABGphdmFzcQB+AJV0AARsYW5ncQB+AJpzcQB+AHZ1cQB+AFoAAAAAc3EAfgB2dXEAfgCuAAAAAnNxAH4AiXQABk9iamVjdHEAfgCyc3EAfgCJdAADQW55cQB+AI91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6xymMZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABvL1VzZXJzL3Jvc2hhbi9Eb2N1bWVudHMvVVREL1NwcmluZ18yMDE3L0JpZ19EYXRhL0Fzc2lnbm1lbnRzL0Fzc2lnbm1lbnQgNS9QYXJ0IEkvQ29kZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUPJwRT7AHmVMvFlaQRz+UTCCQpd8=
+external apis:
+0 items
+source infos:
+1 items
+/Users/roshan/Documents/UTD/Spring_2017/Big_Data/Assignments/Assignment 5/Part I/Code/src/main/scala/Q1.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW1+JM2R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAaC9Vc2Vycy9yb3NoYW4vRG9jdW1lbnRzL1VURC9TcHJpbmdfMjAxNy9CaWdfRGF0YS9Bc3NpZ25tZW50cy9Bc3NpZ25tZW50IDUvQ29kZS90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW6xymMZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAby9Vc2Vycy9yb3NoYW4vRG9jdW1lbnRzL1VURC9TcHJpbmdfMjAxNy9CaWdfRGF0YS9Bc3NpZ25tZW50cy9Bc3NpZ25tZW50IDUvUGFydCBJL0NvZGUvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=

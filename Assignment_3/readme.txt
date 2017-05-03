@@ -22,3 +22,20 @@ output directory: hdfs dfs -ls /user/rxr151330/assignment3/q4
 
 Command: spark-submit --class "Q5" --master local[4] target/scala-2.11/assignment3_2.11-1.0.jar
 output directory: hdfs dfs -ls /user/rxr151330/assignment3/q5
+
+
+Maven Readme:
+spark-submit --class "Q1" --master local[4] Assignment3-0.0.1-SNAPSHOT.jar
+hdfs dfs -cat /user/rxr151330/assignment3/q1/*
+
+spark-submit --class "Q2" --master local[4] Assignment3-0.0.1-SNAPSHOT.jar "Matt J"
+hdfs dfs -cat /user/rxr151330/assignment3/q2/*
+
+spark-submit --class "Q3" --master local[4] Assignment3-0.0.1-SNAPSHOT.jar "Stanford"
+hdfs dfs -cat /user/rxr151330/assignment3/q3/*
+
+spark-submit --class "Q4" --master local[4] Assignment3-0.0.1-SNAPSHOT.jar
+hdfs dfs -cat /user/rxr151330/assignment3/q4/*
+
+spark-submit --class "Q5" --master local[4] Assignment3-0.0.1-SNAPSHOT.jar
+hdfs dfs -cat /user/rxr151330/assignment3/q5/*
